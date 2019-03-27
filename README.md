@@ -1,4 +1,4 @@
-# stock
+# Quack Stock Predicting Project
 
 The idea of this repo is from [this article](https://www.analyticsvidhya.com/blog/2018/10/predicting-stock-price-machine-learningnd-deep-learning-techniques-python/)
 on Analytics Vidhya. The original article provides several techniques to predict stock prices 
